@@ -35,4 +35,4 @@ Electronics Engineering, EN1A
 
 ![iamge alt] https://github.com/Edrian1111/Lada-Circuit-Board/blob/main/Screenshot%202026-05-30%20213732.png?raw=true
 
-![iamge alt]
+![iamge alt] https://github.com/Edrian1111/Lada-Circuit-Board/blob/main/Screenshot%202026-05-30%20213755.png?raw=true

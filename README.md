@@ -27,6 +27,12 @@ Edrian Lada
 ## Course & Section
 Electronics Engineering, EN1A
 
-![image alt] 
+![image alt] 3D_PCB1_2026-05-30.png
+
+![iamge alt]
+
+![iamge alt]
+
+![iamge alt]
 
 ![iamge alt]

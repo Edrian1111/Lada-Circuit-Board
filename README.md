@@ -27,4 +27,6 @@ Edrian Lada
 ## Course & Section
 Electronics Engineering, EN1A
 
+![image alt] 
+
 ![iamge alt]

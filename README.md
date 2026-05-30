@@ -31,7 +31,7 @@ Electronics Engineering, EN1A
 
 ![iamge alt] Gerber_PCB1_2026-05-30.zip
 
-![iamge alt]
+![iamge alt] https://github.com/Edrian1111/Lada-Circuit-Board/blob/main/Screenshot%202026-05-30%20213635.png?raw=true
 
 ![iamge alt]
 

@@ -27,7 +27,7 @@ Edrian Lada
 ## Course & Section
 Electronics Engineering, EN1A
 
-![image alt] 3D_PCB1_2026-05-30.png
+![image alt] [3D_PCB1_2026-05-30.png](https://github.com/Edrian1111/Lada-Circuit-Board/blob/main/3D_PCB1_2026-05-30.png?raw=true)
 
 ![iamge alt] Gerber_PCB1_2026-05-30.zip
 
